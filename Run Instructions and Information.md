@@ -1,6 +1,3 @@
-
-
-
 # Terms
 SQL Server Instance
 - A server instance is a collection of SQL Server databases which are run by a solitary SQL Server service or instance
